@@ -21,7 +21,7 @@
   * [微服务框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%A1%86%E6%9E%B6)
   * [云原生框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BA%91%E5%8E%9F%E7%94%9F%E6%A1%86%E6%9E%B6)
   * [.NET ORM框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-orm%E6%A1%86%E6%9E%B6)
-  * [.NET MVVM框架]()
+  * [.NET MVVM框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-mvvm%E6%A1%86%E6%9E%B6)
   * [网络通信框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E6%A1%86%E6%9E%B6)
   * [系统日志框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6)
   * [AI和LLM框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#ai%E5%92%8Cllm%E6%A1%86%E6%9E%B6)
@@ -150,6 +150,7 @@
   * [.NET开源深度克隆库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%B7%B1%E5%BA%A6%E5%85%8B%E9%9A%86%E5%BA%93)
   * [.NET API文档工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-api%E6%96%87%E6%A1%A3%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
   * [.NET假数据生成库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%81%87%E6%95%B0%E6%8D%AE%E7%94%9F%E6%88%90%E5%BA%93)
+  * [.NET AI Skills技能库](url)
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -2188,6 +2189,19 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [Bogus](https://github.com/bchavez/Bogus) | Bogus 是一个基于著名的 faker.js 移植而来的开源（MIT License） .NET 假数据生成库，它为 .NET 开发者提供了一套强大、简单易用的 API，可快速生成各种类型的模拟数据，支持 40+ 种语言区域本地化，广泛应用于单元测试、数据库填充、原型演示以及示例数据生成等场景。 | https://github.com/bchavez/Bogus |
 |  2  |  |  |  |
+|  3  |  |  |  |
+|  4  |  |  |  |
+|  5  |  |  |  |
+|  6  |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET AI Skills技能库
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [dotnet/skills](https://github.com/dotnet/skills) | 一款由 .NET 官方团队发布了 .NET Agent Skills（dotnet/skills），一套专为 AI 编码 Agent 打造的 .NET 官方技能库（Agent Skills）。它就像给 Copilot CLI、Claude Code、Codex CLI 等 AI 工具装上了"专业大脑"，让它们真正理解 .NET 的框架、API 、单元测试和最佳实践等，从此告别胡说八道，写出靠谱代码。 | https://github.com/dotnet/skills |
+|  2  | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) | 一款由 MiniMax 团队发布的面向 AI 编程工具的开发技能库。接入你常用的 AI 编程工具，获得结构化的、生产级质量的前端、全栈、Android、iOS 和着色器开发指导。 | https://github.com/MiniMax-AI/skills |
 |  3  |  |  |  |
 |  4  |  |  |  |
 |  5  |  |  |  |
