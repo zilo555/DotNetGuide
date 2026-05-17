@@ -150,7 +150,7 @@
   * [.NET开源深度克隆库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%BC%80%E6%BA%90%E6%B7%B1%E5%BA%A6%E5%85%8B%E9%9A%86%E5%BA%93)
   * [.NET API文档工具类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-api%E6%96%87%E6%A1%A3%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%BA%93)
   * [.NET假数据生成库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net%E5%81%87%E6%95%B0%E6%8D%AE%E7%94%9F%E6%88%90%E5%BA%93)
-  * [.NET AI Skills技能库](url)
+  * [.NET AI Skills技能库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-ai-skills%E6%8A%80%E8%83%BD%E5%BA%93)
   * [其他第三方SDK&类库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%85%B6%E4%BB%96%E7%AC%AC%E4%B8%89%E6%96%B9sdk%E7%B1%BB%E5%BA%93)
  
 * [界面&控件&UI库](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%95%8C%E9%9D%A2%E6%8E%A7%E4%BB%B6ui%E5%BA%93)
@@ -660,8 +660,14 @@
 |  36  | [RuYiAdmin](https://gitee.com/pang-mingjun/RuYiAdmin) | RuYiAdmin（如意Admin）一款基于 .NET 9 构建的企业级、前后端分离、开源（Apache License） Web RBAC 快速开发框架，具有灵活的架构设计和强大的功能，适用于快速开发高性能的企业级应用，具有低代码、跨平台、分布式、多线程和高性能等特色。 | https://gitee.com/pang-mingjun/RuYiAdmin |
 |  37  | [ai-recognition-system](https://gitee.com/libihao520/ai-recognition-system) | ai-recognition-system 是一个基于 .NET Core + Vue3 构建的开源全栈平台 Admin 系统，项目集成 YOLOv8（YoloDotNet/ONNX）实现图像识别，并融合 DeepSeek 等 AIGC 大模型。系统采用 DDD + CQRS +中介者模式，配备动态密钥与gRPC内部通信，保障安全。 | https://gitee.com/libihao520/ai-recognition-system |
 |  38  | [overall-auth2.0-web-api](https://gitee.com/yangguangchenjie/overall-auth2.0-web-api) | overall-auth2.0-web-api 是一个基于 .NET 平台开发的开源项目，旨在提供一个简单易懂且功能强大的权限管理与可视化流程管理系统。该项目结合了权限控制与流程管理的核心功能，适用于需要高效管理用户权限及业务流程的企业级应用。 | https://gitee.com/yangguangchenjie/overall-auth2.0-web-api |
-|  39  |  |  |  |
+|  39  | ZrClient | ZrClient 是一个 WPF 桌面应用程序，基于 GPL-2.0 开源，提供现代用户界面交互体验。它集成了模块化功能管理、用户认证和仪表盘数据可视化，适用于构建企业级客户端应用。 | https://gitee.com/SayHelloCat/zrclient |
 |  40  |  |  |  |
+|  41  |  |  |  |
+|  42  |  |  |  |
+|  43  |  |  |  |
+|  44  |  |  |  |
+|  45  |  |  |  |
+|  46  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1113,7 +1119,7 @@
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
 |  1  | [Lean](https://github.com/QuantConnect/Lean) | Lean 是由 QuantConnect 提供的一个基于 C# 编写的事件驱动、采用模块化设计、具备专业水准的算法交易平台（量化交易引擎），该引擎是一个用于在多个金融市场上进行回测和实盘交易算法的开源平台。它允许开发者直接从终端管理项目、运行回测、部署实盘算法以及执行与算法交易相关的各种其他任务。该命令行界面通过自动化任务、实现与云服务的无缝集成以及促进与 QuantConnect 社区的协作来简化工作流程。它专为需要强大且灵活工具以简化其交易策略的量化开发者而设计。 | https://github.com/QuantConnect/Lean |
 |  2  | [TradingSystem](https://github.com/oybab/TradingSystem) | TradingSystem 一款基于 .NET 开源免费、跨平台、支持多语言的交易管理系统，旨在为餐厅、超市、酒店等多种商业场景提供一体化的解决方案。该系统涵盖了服务器端、PC 客户端和手机客户端的全面源码，支持中文界面，功能丰富且易于扩展。无论是日常交易管理、会员管理，还是打印小票和生成统计报表，TradingSystem 都能提供高效、便捷的服务。 | https://github.com/oybab/TradingSystem |
-|  3  |  |  |  |
+|  3  | [boundless](https://gitee.com/cookies_code/boundless) | boundless 项目定位是轻量级收银解决方案，核心目标是"开箱即用"。代码结构清晰，文档完善，新手也能快速上手二次开发。我一开始看到 WinForm 还担心界面效果，结果实际运行后发现作者在 UI 优化上下了很大功夫。 | https://gitee.com/cookies_code/boundless |
 |  4  |  |  |  |
 |  5  |  |  |  |
 |  6  |  |  |  |
