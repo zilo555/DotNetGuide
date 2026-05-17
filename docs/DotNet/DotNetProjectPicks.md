@@ -21,6 +21,7 @@
   * [微服务框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%A1%86%E6%9E%B6)
   * [云原生框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E4%BA%91%E5%8E%9F%E7%94%9F%E6%A1%86%E6%9E%B6)
   * [.NET ORM框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#net-orm%E6%A1%86%E6%9E%B6)
+  * [.NET MVVM框架]()
   * [网络通信框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E6%A1%86%E6%9E%B6)
   * [系统日志框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E6%A1%86%E6%9E%B6)
   * [AI和LLM框架](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#ai%E5%92%8Cllm%E6%A1%86%E6%9E%B6)
@@ -291,6 +292,23 @@
 |  23 |  |  |  |
 |  24 |  |  |  |
 |  25 |  |  |  |
+
+[🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
+
+
+#### .NET MVVM框架
+|  ✍   |                项目名称和地址                 |                           项目简介                           |           项目详细介绍（文档、文章、源码地址）            |
+| :--: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------: |
+|  1  | [CommunityToolkit.Mvvm](https://github.com/CommunityToolkit/dotnet) | CommunityToolkit.Mvvm （又名 MVVM 工具包，由微软 .NET 基金会维护，基于 MIT License 开源，以前称为 Microsoft.Toolkit.Mvvm）是一个现代、快速和模块化的 MVVM 库，支持 WinUI 3、UWP、WinForms、WPF、Xamarin、Uno 等客户端框架。独立于平台和运行时： .NET Standard 2.0、.NET Standard 2.1 和 .NET 6（与 UI 框架无关）。 | https://github.com/CommunityToolkit/dotnet |
+|  2  | [Prism](https://github.com/PrismLibrary/Prism) | Prism 是一个用于开发 WPF、Avalonia、MAUI、Uno Platform 和 WinUI 的 XAML 应用框架，能帮助开发者构建低耦合、易维护、可测试的程序。它内置了 MVVM、依赖注入、命令、事件聚合器等常用模式，并支持多个 .NET 版本。不同平台有各自独立的版本，平台相关功能也会分别实现。 | https://github.com/PrismLibrary/Prism |
+|  3  | [ReactiveUI](https://github.com/reactiveui/ReactiveUI) | ReactiveUI 是一个适用于所有 .NET 平台的高级 MVVM 框架，基于 MIT license 开源，设计灵活、可组合，并借鉴了函数式响应式编程的思想。它可以帮助你把界面中的状态变化和业务逻辑分开，把一个功能的核心逻辑集中写在更清晰的位置，同时让程序更容易测试。 | https://github.com/reactiveui/ReactiveUI |
+|  4  | [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) | Caliburn.Micro 是一个小巧但功能很强的框架，用来开发各种 XAML 平台上的应用，基于 MIT license 开源。它对 MVVM 和其他常见界面开发模式支持很好，能帮助你更快地开发程序，同时又不影响代码质量和可测试性。 | https://github.com/Caliburn-Micro/Caliburn.Micro |
+|  5  | [Stylet](https://github.com/canton7/Stylet) | Stylet 是一个小巧但很实用的 ViewModel-first MVVM 框架，基于 MIT license 开源，专门用于 WPF 开发，支持 .NET 4.5.2 以上和 .NET Core 3.0 以上。它的目标是让你更轻松地写出易维护、可扩展、也容易测试的代码。 | https://github.com/canton7/Stylet |
+|  6  | [Catel](https://github.com/Catel/Catel) | Catel 是一个面向 .NET 开源（MIT License）的应用开发平台，核心定位是 WPF 上的 MVVM 框架。 | https://github.com/Catel/Catel |
+|  7  | [mvvmlight](https://github.com/lbugnion/mvvmlight) | MVVMLight 是一个轻量级、易上手的开源 MVVM 开发工具包，通过提供常用的基类（如 ViewModelBase）、命令绑定（RelayCommand）、消息传递（Messenger）以及跨平台兼容性（支持 Xamarin.Android、Xamarin.iOS、Xamarin.Forms、UWP、WPF、Silverlight 和 Windows Phone），帮助开发者快速创建和维护结构清晰、易于测试的 MVVM 应用程序。 | https://github.com/lbugnion/mvvmlight |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
@@ -1302,8 +1320,12 @@
 |  2  | [SophiApp](https://github.com/Sophia-Community/SophiApp) | SophiApp 是一个基于 .NET 开源（MIT license）、免费的应用程序，专为微调 Windows 10 和 Windows 11 系统而设计。它提供了一个现代的用户界面（UI/UX），包含了超过 130 项独特的调整选项，展示了如何在不影响 Windows 系统稳定性的前提下对其进行配置和优化。 | https://github.com/Sophia-Community/SophiApp |
 |  3  | [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) | WinMemoryCleaner 是一款 .NET 开源免费（GPL-3.0 license）、界面简洁、小巧智能的 Windows 内存清理工具，它通过调用 Windows 系统原生接口，有效优化内存使用。当某些程序未能正确释放已分配的内存时，使用 WinMemoryCleaner 可以帮助提升系统性能。 | https://github.com/IgorMundstein/WinMemoryCleaner |
 |  4  | [ZyperWin++](https://github.com/ZyperWave/ZyperWinOptimize) | ZyperWin++ 是一个基于 .NET + SunnyUI 开源、轻便、简洁美观的 Windows 优化工具，适用于 Win7 - Win11 最新版的优化，包括性能优化、服务项优化、垃圾清理、资源管理器管理、安全设置、隐私设置、更新设置、Appx管理策略优化等操作，还支持系统激活和Office快速安装。 | https://github.com/ZyperWave/ZyperWinOptimize |
-|  5  |  |  |  |
+|  5  | [Winhance](https://github.com/memstechtips/Winhance) | Winhance 一款基于 C# 开发且开源的 Windows 10/11 系统增强工具。它通过图形化界面整合了应用管理、系统优化、隐私设置、桌面定制、常用软件安装、配置导入导出以及自定义安装介质等能力，帮助用户更高效地完成 Windows 环境配置，实现 精简、优化、定制一站完成。 | https://github.com/memstechtips/Winhance |
 |  6  |  |  |  |
+|  7  |  |  |  |
+|  8  |  |  |  |
+|  9  |  |  |  |
+|  10  |  |  |  |
 
 [🔝项目分类](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/DotNet/DotNetProjectPicks.md#%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E5%96%84%E7%94%A8ctrlf)
 
